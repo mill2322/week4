@@ -1,14 +1,32 @@
 body {
 	background: #ccc;
 	margin: 0;
+	padding-left: 150px;
+	padding-right: 150px;
 	font-family: Helvetica;
 }
 
 .container {
 	margin: 0 auto;
-	width: 700 px;
+	width: 600 px;
 	margin: T L B R;
-	padding-top: 200px;
 	background: #fff;
 	border-top: 10px solid #424242
+	border-bottom: 10px solid #424242
+}
+
+.one-pager {
+	padding: 20px 40px;
+	background #fff;
+}
+
+.one-pager h1 {
+	text-decoration: underline;
+	font-family: Helvetica;
+	font-size: 2em;
+}
+
+.one-pager h2 {
+	text-decoration: bold;
+	font-size 1em
 }
