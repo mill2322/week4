@@ -1,0 +1,14 @@
+body {
+	background: #ccc;
+	margin: 0;
+	font-family: Helvetica;
+}
+
+.container {
+	margin: 0 auto;
+	width: 700 px;
+	margin: T L B R;
+	padding-top: 200px;
+	background: #fff;
+	border-top: 10px solid #424242
+}
